@@ -1,7 +1,7 @@
 # OWON OW18B Bluetooth BLE Connector / Logger 
 
-![This is an image of the OWON OW18B Multimeter](https://github.com/rbelnienk/OWON-OW18B-BLE-Connector/blob/main/OW18B.jpg?raw=true)
- 
+<img src="https://github.com/rbelnienk/OWON-OW18B-BLE-Connector/blob/main/OW18B.jpg" width="250">
+
 
 This Script will connect to your OWON OW18B Multimeter via Windows machine Bluetooth. 
 
