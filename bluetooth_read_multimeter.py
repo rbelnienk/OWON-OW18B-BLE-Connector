@@ -45,10 +45,6 @@ def decode(sender: BleakGATTCharacteristic, data: bytearray):
         # data[5] counts the overflow of byte data[4] pos. values from 0-127 negative values from 128-256
         print(f"{data[0]}",f"{data[1]}",f"{data[2]}",f"{data[3]}",f"{data[4]}",f"{data[5]}")
         
-    
-def callback(sender: BleakGATTCharacteristic, data: bytearray):
-    print(decode(data))
-
 
 async def main():
     print('Looking for Device "BDM"')
