@@ -7,7 +7,7 @@ This Script will connect to your OWON OW18B Multimeter via Windows machine Bluet
 
 Currently only Supports Volts and mVolts measurement, feel free to add more. 
 
-Before use make sure you install bleak:
+Before use make sure you install bleak or simply use the requirements.txt:
 
 `pip install bleak`
 
